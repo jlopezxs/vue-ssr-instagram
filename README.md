@@ -1,5 +1,7 @@
 # vue-ssr-instagram
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jlopezxs/vue-ssr-instagram.svg)](https://greenkeeper.io/)
+
 > A Instagram clone project with Vue.js 2.0 using server side rendering.
 
 ## Requirements and Use
